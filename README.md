@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMAzer
 - 👀 I’m interested to become a great Developer
-- 🌱 I’m currently learning MySQL, React.JS
+- 🌱 I’m currently learning React.JS
 - 📫 Knowledge in Javascript(ES6), CSS3, HTML5, Bootstrap, AJAX, PHP, MySQL.
 - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-azeredo-4b8093239/)
 
