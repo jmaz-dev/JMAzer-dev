@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JMAzer
 - 👀 I’m interested to become a great Developer
-- 🌱 I’m currently improving my knowledge of React.JS
-- 📫 Knowledge in React.JS | Javascript(ES6) | API's | Firebase | Git & GitHub | CSS3 & HTML5 | Bootstrap 5 | AJAX | PHP | MySQL
+- 🌱 I’m currently focused on bulding responsive fron-end web applications while learning back-end technologies
+- 📫 Knowledge in React.JS | Javascript(ES6) | Next.js | REST API | Firebase | MongoDB | Git & GitHub | CSS3 & HTML5 | Tailwind | Node.js | PHP | MySQL
 - [Linkedin](https://www.linkedin.com/in/jmazeredo/)
+- [Portifolio](https://jmazer.net/)
 
 <!---
 JMAzer-dev/JMAzer-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
