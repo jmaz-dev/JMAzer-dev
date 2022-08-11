@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JMAzer
+- 👋 Hi, I’m João Azeredo
 - 👀 I’m interested to become a great Developer
 - 🌱 I’m currently focused on bulding responsive fron-end web applications while learning back-end technologies
 - 📫 Knowledge in React.JS | Javascript(ES6) | Next.js | REST API | Firebase | MongoDB | Git & GitHub | CSS3 & HTML5 | Tailwind | Node.js | PHP | MySQL
